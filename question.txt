@@ -1,0 +1,20 @@
+Node js - 
+
+Implement a GET API in Node.js that takes "two numbers as parameters", 
+adds them, and sends the result. 
+Create "validations" around input parameters to accept numeric values. Additionally, incorporate "authentication" using middleware.
+
+testing url: "http://localhost:3000/add?num1=10&num2=20"
+HTTP Headers: {Accept: */*
+User-Agent: Thunder Client (https://www.thunderclient.com)
+Authorization: token}
+
+
+ 
+React js -
+
+Use the following API and show the Product Name, Description and Image in tabular format. Use CSS to make it visually appealing.
+ 
+https://dummyjson.com/products
+
+dummyjson.com
